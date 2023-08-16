@@ -1,9 +1,11 @@
 # Library Management System
 
 The Library Management System is a comprehensive software solution designed to efficiently manage and organize the operations of a library. This project provides a user-friendly interface for library staff and users to perform various tasks related to borrowing, returning, searching, and managing books, as well as handling user accounts and fines.
+
 ![merge_from_ofoct](https://github.com/RafayKhattak/Library-Managment-System-OOP/assets/90026724/2ef947db-b930-4f20-8c06-b28f0ead5628)
 
 ## UML Diagram
+
 ![Screenshot (91)](https://github.com/RafayKhattak/Library-Managment-System-OOP/assets/90026724/f5682dcd-30c0-445c-ae9d-4099eb95b0fa)
 
 ## Features
